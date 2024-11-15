@@ -7,7 +7,7 @@
     <depends>com.intellij.modules.platform</depends>
 
     <resource-bundle>messages.MyBundle</resource-bundle>
-    
+
     <applicationListeners>
         <listener class="com.github.hardikm9850.flashdash.listeners.ProgressBarListener"
                   topic="com.intellij.ide.ui.LafManagerListener"/>
